@@ -4,7 +4,7 @@ An Android application that provides real-time weather information for any city 
 ---
 
 ## 📱 Features
-- 🌍 Get current weather by city name
+- 🌍 Get current weather by city zipcode
 - 🌡️ Displays hourly high and low temperature
 - 📱 User-friendly Android UI
 
